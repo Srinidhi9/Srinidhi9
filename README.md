@@ -1,12 +1,52 @@
-- 👋 Hi, I’m @Srinidhi9
-- 👀 I’m interested in Java and exploring new technologies...
-- 🌱 I’m currently learning Java,AWS,Git,GitHub...
-- 💞️ I’m looking to collaborate on projects related to Java development, cloud computing, or any open-source initiative...
-- 📫 How to reach me you can connect me via linkedIn Srinidhi Dubba...
-- 😄 Pronouns: She/Her...
-- ⚡ Fun fact: I once built a Java application that helped me organize my book collection!...
+<h1 align="center">Hi 👋, I'm Srinidhi Dubba</h1>
+<h3 align="center">Java & Laravel Backend Developer</h3>
 
-<!---
-Srinidhi9/Srinidhi9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👩‍💻 About Me
+- 🔹 Backend Developer Trainee at Omnics Technologies  
+- 🔹 Skilled in **Java, JDBC, Spring Boot, Laravel & REST APIs**
+- 🔹 Experience with **MySQL database design and optimization**
+- 🔹 Learning **AWS & DevOps basics**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Java | PHP | Python | C  
+**Backend:** Spring Boot | Laravel | REST APIs | MVC | OOP  
+**Database:** MySQL | SQL  
+**Web:** HTML | CSS | JavaScript  
+**ML:** Pandas | NumPy | Scikit-learn  
+**Cloud:** AWS (EC2, S3 - Basics)  
+**Tools:** Git | GitHub | Postman | VS Code
+
+---
+
+### 🚀 Featured Projects
+
+**Employee Management System – Java (Maven)**  
+CRUD backend for managing employees using JDBC & MySQL
+
+---
+
+**Project Management Tool – Laravel**  
+Role-based authentication, REST APIs & MySQL integration
+
+---
+
+**Weather Forecast App – JavaScript**  
+7-day forecast using live APIs
+
+---
+
+**Crop Recommendation System – Machine Learning**  
+Predicts crops using classification models
+
+---
+
+### 📫 Contact
+
+🔗 LinkedIn: https://linkedin.com/in/srinidhidubba  
+📧 Email: srinidhireddy9948@gmail.com
+
