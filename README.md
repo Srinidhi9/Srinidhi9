@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinidhi Dubba</h1>
-<h3 align="center">Java & Laravel Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
