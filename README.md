@@ -30,7 +30,7 @@ CRUD backend for managing employees using JDBC & MySQL
 
 ---
 
-**Project Management Tool – Laravel**  
+**Project Management Tool – Django**  
 Role-based authentication, REST APIs & MySQL integration
 
 ---
