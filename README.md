@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 🔹 Backend Developer Trainee at Omnics Technologies  
-- 🔹 Skilled in **Java, JDBC, Spring Boot, Laravel & REST APIs**
+- 🔹 Skilled in **Python, Django, Java, JDBC, Spring Boot, Laravel & REST APIs**
 - 🔹 Experience with **MySQL database design and optimization**
 - 🔹 Learning **AWS & DevOps basics**
 
@@ -13,8 +13,8 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java | PHP | Python | C  
-**Backend:** Spring Boot | Laravel | REST APIs | MVC | OOP  
+**Languages:** Python | Java | PHP | Python | C  
+**Backend:** Django | Spring Boot | Laravel | REST APIs | MVC | OOP  
 **Database:** MySQL | SQL  
 **Web:** HTML | CSS | JavaScript  
 **ML:** Pandas | NumPy | Scikit-learn  
@@ -27,6 +27,11 @@
 
 **Employee Management System – Java (Maven)**  
 CRUD backend for managing employees using JDBC & MySQL
+
+---
+
+**Project Management Tool – Laravel**  
+Role-based authentication, REST APIs & MySQL integration
 
 ---
 
